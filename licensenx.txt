@@ -1,1 +1,10 @@
-noACTIVA
+## Licencia para Soft NX
+##  - Informes UT
+##  - QRepair
+## Se comprueba la fecha actual con la fecha aquí indicada para comprobar la caducidad de la licencia.
+## Error #101: no se pudo obtener la información de licencia del servidor. ¿Hay internet?
+## Error #102: no hay fecha válida en el archivo; licencia caducada.
+## Error @103: no se encuentra el archivo de licencia.
+## Funciona con cualquier formato de fecha de cualquier país. Se toma en cuenta la configuración regional.
+## Aquí pongo el formato AAAA-MM-DD
+2025-12-31
